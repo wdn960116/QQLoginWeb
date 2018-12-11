@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
         et_qqnumber.setText(qq);
         et_passwd.setText(password);
     }
-    /**
+    /***
      * 登录按钮的点击事件
      *
      * @param view
